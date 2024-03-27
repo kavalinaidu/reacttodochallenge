@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.t{
+    background-color:  #a0e4e0;
+    height: 100vh;
+    width: 100%;
+    padding-top: 5rem;
+}
+.task{
+    width: 30rem;
+    background-color: #3baea0;
+    margin-left: 35rem;
+}
+.task h1{
+    padding-left: 12rem;
+    color:  #b2dffb;
+}
+.task1{
+    padding-left: 10rem;
+}
+.task2 h2{
+    padding-left: 8rem;
+
+}
+.task2{
+    padding-left: 5rem;
+}
